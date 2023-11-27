@@ -15,8 +15,8 @@
 Width="250"
 Height="350">
 <p> 
-     *{
-  margin: 0;
+     *CSS{
+     margin: 0;
   padding: 0;
   font-family: Arima madurai;
 }
