@@ -15,7 +15,6 @@
 Width="250"
 Height="350">
 <p> 
-<CSS>
      *{
   margin: 0;
   padding: 0;
