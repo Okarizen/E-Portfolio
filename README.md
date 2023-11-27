@@ -15,7 +15,8 @@
 Width="250"
 Height="350">
 <p> 
-<CSS>*{
+<CSS>
+     *{
   margin: 0;
   padding: 0;
   font-family: Arima madurai;
@@ -35,4 +36,4 @@ Height="350">
 .text_1
 {
 position: absolute; left:520px; top: 40px;">
-}</CSS>
+}
